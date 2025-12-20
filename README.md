@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 안녕하세요! 2kinna의 GitHub입니다.
 
-<!--
-**2kinna/2kinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stacks (사용 가능한 기술)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-Here are some ideas to get you started:
+### 📊 My Stats (활동 통계)
+![2ginnna's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ginnna&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+"오늘도 한 걸음 성장하는 중입니다! 🚀"
