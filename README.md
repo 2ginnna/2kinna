@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 2kinna의 GitHub입니다.
+# 👋 안녕하세요! 2ginna의 GitHub입니다.
 
 ### 🛠 Tech Stacks (사용 가능한 기술)
 <p align="left">
